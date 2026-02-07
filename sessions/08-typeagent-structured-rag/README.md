@@ -24,7 +24,7 @@ Discover TypeAgent and the evolution from traditional RAG to Structured RAG for 
 
 ## Speaker Bio
 
-Bernhard Merkle https://www.linkedin.com/in/bernhard-merkle-738b73/
+Bernhard Merkle ([LinkedIn](https://www.linkedin.com/in/bernhard-merkle-738b73/))
 
 ---
 
